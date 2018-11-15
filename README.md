@@ -1,0 +1,2 @@
+# Chatbot-
+This paper will detail the need for conversational AI agents, such as chatbots in the search and discovery domain. The efficiency of the bots is increased by the application of deep learning algorithms. Deep learning is the advancement needed to bring forth the fluency in the conversations with a human user. The Animal Welfare domain is a very lucrative area which has been untapped up till now. Deploying a chatbot with a knowledge base, which masters the search and discover domain within the Animal Welfare industry is the aim of this research.
